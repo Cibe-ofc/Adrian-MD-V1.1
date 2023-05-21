@@ -13,33 +13,33 @@ global.APIKeys = {
 global.lolhuman = 'APOLOZEA' // https://api.lolhuman.xyz
 global.keyai = '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' // https://platform.openai.com/account/api-keys
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = '𝙰𝙳𝚁𝙸𝙰𝙽-𝙼𝙳'
-global.namaowner = '𝙰𝙳𝚁𝙸𝙰𝙽'
+global.namabot = 'ᴢᴇʀᴏ-ᴛᴡᴏ'
+global.namaowner = 'ᴢᴇʀᴏᴛᴡᴏ'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081052']
-global.ownernomer = "6289513081052"
-global.premium = ['6289513081052']
+global.owner = ['6283892969926']
+global.ownernomer = "13804446922"
+global.premium = ['6283892969926']
 global.ultah = 'Maret 24, 2024'
 
 //—————「 Setting Donasi 」—————//
-global.dana = '089513081052'
+global.dana = 'Chatowner'
 
 //—————「 Set Kebutuhan Button 」—————//
-global.email = 'azzygota24@gmail.com'
+global.email = 'ikysmith@yahoo.com'
 global.namaweb = 'TikTok'
-global.myweb = 'https://tiktok.com/@dryan.am'
+global.myweb = 'https://tiktok.com/@watashidivine'
 global.region = 'Indonesia'
 global.github = 'https://github.com/AdrianTzy'
-global.mygc = 'https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10'
-global.myig = 'https://instagram.com/dryan.pu'
+global.mygc = 'https://chat.whatsapp.com/B6NS1pwwv1s6Bf7ZrIv2Q2'
+global.myig = 'https://instagram.com/koko_itsky'
 
 //—————「 Set Wm 」—————//
-global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝙰𝙳𝚁𝙸𝙰𝙽𝙱𝙾𝚃\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:𝙳𝚁𝚈𝙰𝙽𝙱𝙾𝚃'
-global.botname = 'AdrianTzy Creator'
-global.akulaku = 'Bot By AdrianTzy'
-global.ttname = 'TikTok AdrianTzy'
+global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 ᴢᴇʀᴏᴛᴡᴏ\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 ғᴏʟʟᴏᴡ\nɪɢ:ᴋᴏᴋᴏ_ɪᴛsᴋʏ'
+global.botname = 'Zerotwo Creator'
+global.akulaku = 'Bot By Zerotwo'
+global.ttname = 'TikTok Watashidivine'
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
